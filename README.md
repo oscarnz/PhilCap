@@ -1,4 +1,4 @@
-Phillip Capital Web3 Developer Assesment
+Phillip Capital Web3 Developer Assessment
 
 How it works
 # Install
